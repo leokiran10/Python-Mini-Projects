@@ -8,6 +8,7 @@ Here's an overview of the mini projects included in this collection:
 
 
 **Project 1**: Quiz Game
+**Project 2**: Number Guessing Game
 
 Feel free to explore the projects and dive into the directories to learn more about each individual mini project.
 
