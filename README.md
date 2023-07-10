@@ -10,4 +10,6 @@ Here's an overview of the mini projects included in this collection:
 
 **Project 2**: Number Guessing Game
 
+**Project 3**: Random Password Generator
+
 Feel free to explore the projects and dive into the directories to learn more about each individual mini project.
