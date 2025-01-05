@@ -1,4 +1,4 @@
-# Quiz game in Python
+# Quiz game
 print("Welcome to Quiz Game!")
 
 playing = input("\nDo you want to play?\n[Y] Yes\n[N] No\n: ")
